@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nintendo Switch",
+      "price": "$250.00",
+      "description": "Nintendo Switch, just came in",
+      "condition": "Good",
+      "image": "/images/Nintendo Switch 1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Wii U",
+      "price": "$150.00",
+      "description": "Wii U with some minor wear and tear ",
+      "condition": "Good",
+      "image": "/images/Wii U.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Playstation 5",
+      "price": "$350.00",
+      "description": "Playstation 5 with one controller",
+      "condition": "Pristine",
+      "image": "/images/Playstation 5.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nintendo Switch",
+      "price": "$275.00",
+      "description": "Nintendo Switch, Great Condition",
+      "condition": "Great",
+      "image": "/images/Nintendo Switch 2.jpg"
+    },
+    {
+      "name": "Playstation 4",
+      "description": "Playstation 4 with one controller",
+      "condition": "Great",
+      "price": "$150.00",
+      "image": "/images/PS4.jpg",
+      "id": 6
+    },
+    {
+      "name": "Xbox One",
+      "description": "Xbox one with some scratches",
+      "condition": "Good",
+      "price": "$250.00",
+      "image": "/images/Xbox one.jpg",
+      "id": 7
+    }
+  ]
+}
